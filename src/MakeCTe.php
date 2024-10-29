@@ -20,6 +20,8 @@ use NFePHP\Common\Strings;
 use RuntimeException;
 use stdClass;
 
+/* teste */
+
 class MakeCTe
 {
     /**
